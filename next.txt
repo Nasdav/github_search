@@ -1,0 +1,2 @@
+Completing the script with file_get_contents
+making a batch so this app could be used in Windows (windows support)
